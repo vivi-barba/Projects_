@@ -1,3 +1,3 @@
 # Projects_
-Pequenos projetos desenvolvidos com HTML e CSS
+Pequenos projetos desenvolvidos com HTML e CSS.
 
